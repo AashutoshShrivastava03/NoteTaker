@@ -34,7 +34,3 @@ NoteTaker is a simple web application for managing notes. Users can add, view, u
 * Click "update" to modify an existing note.
 * Click "Delete" to remove a note permanently.
 * search notes.
-
-## Demo 🎥
-🚀 Live Demo (Replace with your hosted link)
-
